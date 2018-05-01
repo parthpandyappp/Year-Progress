@@ -1,0 +1,12 @@
+body{
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.bro{
+  font-weight: bold;
+  font-size: 2.6em;
+  color: #265301;
+  text-align:center;
+  line-height: 13.9;
+  margin: 3em;
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
